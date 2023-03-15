@@ -6,10 +6,6 @@ local character = game:GetService("Workspace").Character.SSCharaneko0.Head
 firetouchinterest(game.Players.LocalPlayer.Character.HumanoidRootPart, character, 0)
 firetouchinterest(game.Players.LocalPlayer.Character.HumanoidRootPart, character, 1)
 wait(w1)
-local character = game:GetService("Workspace").Character.GlitchtaleChara0.Head
-firetouchinterest(game.Players.LocalPlayer.Character.HumanoidRootPart, character, 0)
-firetouchinterest(game.Players.LocalPlayer.Character.HumanoidRootPart, character, 1)
-wait(w1)
 local character = game:GetService("Workspace").Character.GlitchtaleFrisk0.Head
 firetouchinterest(game.Players.LocalPlayer.Character.HumanoidRootPart, character, 0)
 firetouchinterest(game.Players.LocalPlayer.Character.HumanoidRootPart, character, 1)
@@ -18,6 +14,10 @@ local character = game:GetService("Workspace").Character.XSansandchara0.Head
 firetouchinterest(game.Players.LocalPlayer.Character.HumanoidRootPart, character, 0)
 firetouchinterest(game.Players.LocalPlayer.Character.HumanoidRootPart, character, 1)
 wait(w1)
+local character = game:GetService("Workspace").Character.GlitchtaleChara0.Head -- Шла после Фриск
+firetouchinterest(game.Players.LocalPlayer.Character.HumanoidRootPart, character, 0)
+firetouchinterest(game.Players.LocalPlayer.Character.HumanoidRootPart, character, 1)
+--[[wait(w1)
 local character = game:GetService("Workspace").Box.Alternatefrisk0.Head
 firetouchinterest(game.Players.LocalPlayer.Character.HumanoidRootPart, character, 0)
 firetouchinterest(game.Players.LocalPlayer.Character.HumanoidRootPart, character, 1)
@@ -29,3 +29,4 @@ wait(w1)
 local character = game:GetService("Workspace").Character.OmniThorn0.Head
 firetouchinterest(game.Players.LocalPlayer.Character.HumanoidRootPart, character, 0)
 firetouchinterest(game.Players.LocalPlayer.Character.HumanoidRootPart, character, 1)
+--]]
