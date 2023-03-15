@@ -1,0 +1,30 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/JustHeretic/UCMT-Char-Lib-Public/main/CharLibrary"))()
+-- Lib for Characters ^
+
+local character = game:GetService("Workspace").Character.SSCharaneko0.Head
+firetouchinterest(game.Players.LocalPlayer.Character.HumanoidRootPart, character, 0)
+firetouchinterest(game.Players.LocalPlayer.Character.HumanoidRootPart, character, 1)
+wait()
+local character = game:GetService("Workspace").Character.GlitchtaleChara0.Head
+firetouchinterest(game.Players.LocalPlayer.Character.HumanoidRootPart, character, 0)
+firetouchinterest(game.Players.LocalPlayer.Character.HumanoidRootPart, character, 1)
+wait()
+local character = game:GetService("Workspace").Character.GlitchtaleFrisk0.Head
+firetouchinterest(game.Players.LocalPlayer.Character.HumanoidRootPart, character, 0)
+firetouchinterest(game.Players.LocalPlayer.Character.HumanoidRootPart, character, 1)
+wait()
+local character = game:GetService("Workspace").Character.XSansandchara0.Head
+firetouchinterest(game.Players.LocalPlayer.Character.HumanoidRootPart, character, 0)
+firetouchinterest(game.Players.LocalPlayer.Character.HumanoidRootPart, character, 1)
+wait()
+local character = game:GetService("Workspace").Box.Alternatefrisk0.Head
+firetouchinterest(game.Players.LocalPlayer.Character.HumanoidRootPart, character, 0)
+firetouchinterest(game.Players.LocalPlayer.Character.HumanoidRootPart, character, 1)
+wait()
+local character = game:GetService("Workspace").Box.HardSans0.Head
+firetouchinterest(game.Players.LocalPlayer.Character.HumanoidRootPart, character, 0)
+firetouchinterest(game.Players.LocalPlayer.Character.HumanoidRootPart, character, 1)
+wait()
+local character = game:GetService("Workspace").Character.OmniThorn0.Head
+firetouchinterest(game.Players.LocalPlayer.Character.HumanoidRootPart, character, 0)
+firetouchinterest(game.Players.LocalPlayer.Character.HumanoidRootPart, character, 1)
