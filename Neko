@@ -26,7 +26,7 @@ local character = game:GetService("Workspace").Box.HardSans0.Head
 firetouchinterest(game.Players.LocalPlayer.Character.HumanoidRootPart, character, 0)
 firetouchinterest(game.Players.LocalPlayer.Character.HumanoidRootPart, character, 1)
 wait(w1)
+--]]
 local character = game:GetService("Workspace").Character.OmniThorn0.Head
 firetouchinterest(game.Players.LocalPlayer.Character.HumanoidRootPart, character, 0)
 firetouchinterest(game.Players.LocalPlayer.Character.HumanoidRootPart, character, 1)
---]]
